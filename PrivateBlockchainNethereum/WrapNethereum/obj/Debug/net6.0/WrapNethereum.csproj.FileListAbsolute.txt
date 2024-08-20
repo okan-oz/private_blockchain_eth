@@ -1,0 +1,12 @@
+/Users/okanoz/Projects/PrivateBlockchainNethereum/WrapNethereum/bin/Debug/net6.0/WrapNethereum.deps.json
+/Users/okanoz/Projects/PrivateBlockchainNethereum/WrapNethereum/bin/Debug/net6.0/WrapNethereum.dll
+/Users/okanoz/Projects/PrivateBlockchainNethereum/WrapNethereum/bin/Debug/net6.0/WrapNethereum.pdb
+/Users/okanoz/Projects/PrivateBlockchainNethereum/WrapNethereum/obj/Debug/net6.0/WrapNethereum.csproj.AssemblyReference.cache
+/Users/okanoz/Projects/PrivateBlockchainNethereum/WrapNethereum/obj/Debug/net6.0/WrapNethereum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/okanoz/Projects/PrivateBlockchainNethereum/WrapNethereum/obj/Debug/net6.0/WrapNethereum.AssemblyInfoInputs.cache
+/Users/okanoz/Projects/PrivateBlockchainNethereum/WrapNethereum/obj/Debug/net6.0/WrapNethereum.AssemblyInfo.cs
+/Users/okanoz/Projects/PrivateBlockchainNethereum/WrapNethereum/obj/Debug/net6.0/WrapNethereum.csproj.CoreCompileInputs.cache
+/Users/okanoz/Projects/PrivateBlockchainNethereum/WrapNethereum/obj/Debug/net6.0/WrapNethereum.dll
+/Users/okanoz/Projects/PrivateBlockchainNethereum/WrapNethereum/obj/Debug/net6.0/refint/WrapNethereum.dll
+/Users/okanoz/Projects/PrivateBlockchainNethereum/WrapNethereum/obj/Debug/net6.0/WrapNethereum.pdb
+/Users/okanoz/Projects/PrivateBlockchainNethereum/WrapNethereum/obj/Debug/net6.0/ref/WrapNethereum.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sYOP0S1KJvi0AGaJOYM6Sw1LAAk5GKnXk+mHwjqsfGU=",
+  "Source": "PrivateBlockchainNethereum",
+  "BasePath": "_content/PrivateBlockchainNethereum",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
